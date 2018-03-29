@@ -25,7 +25,7 @@ Percentage of correct classifications: 70.0% out of 100 images
 ```
 
 ## Images
-![Faces example](Images/faces-example.png)
+![Faces example](Images/faces-example2.png)
 
 The images that the neural network classifies are made out of a 20x20 pixel matrix with 32 grey scale levels, and the four classes of faces are: happy, sad, mischievous, or mad. The images are rotated randomly and located in ```Images/training-file.txt```.
 
